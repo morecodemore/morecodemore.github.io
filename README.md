@@ -1,6 +1,6 @@
 # morecodemore.github.io
-Личный хостинг morecodemore на Гите
 
-Device - учебный проект от html academy - morecodemore.github.io/device
+Хостинг личных проектов @morecodemore на Гите
 
-Bikees - первый опыт адаптивной верстки по psd макету от html academy - morecodemore.github.io/bikees
+Device - учебный проект от html academy - https://morecodemore.github.io/device
+Bikees - первый опыт адаптивной верстки по psd макету макет (из подписки на новости html academy) - https://morecodemore.github.io/bikees
